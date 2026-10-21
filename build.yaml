@@ -1,3 +1,4 @@
 include:
   - board: xiao_ble//zmk
     shield: ten_ta
+    artifact-name: ten_ta_xiao_ble

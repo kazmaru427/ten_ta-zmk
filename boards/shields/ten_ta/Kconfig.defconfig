@@ -1,0 +1,6 @@
+if SHIELD_TEN_TA
+
+config ZMK_KEYBOARD_NAME
+    default "ten_ta"
+
+endif

@@ -1,3 +1,5 @@
+name: zmk-keyboard-ten_ta
+
 build:
   settings:
     board_root: .
